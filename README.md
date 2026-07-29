@@ -55,6 +55,9 @@ variável no eixo X.
 preditora (X) e o preço como resposta (Y). Interprete os coeficientes e
 o R².
 
+## Integrantes:
+![Squad Dorothy](capa04.png)
+
 ## Tecnologias usadas:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
